@@ -2,7 +2,7 @@ module.exports = {
     prompts: {
         name: {
             type: 'string',
-            default: 'MIP Project',
+            default: 'mip-project',
             message: '项目名称',
         },
         description: {
