@@ -1,4 +1,4 @@
-# `mip-{{ compName }}`
+# `{{ compName }}`
 
 ## 说明
 
